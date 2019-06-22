@@ -1,0 +1,24 @@
+.footer--top {
+  background-color: #e95959;
+}
+
+.navbar-nav {
+  font-size: 12.5px;
+}
+a {
+  color: #0e0e0e !important;
+}
+
+.nav-link:hover {
+  color: #f8f9fa !important;
+  text-decoration: none;
+}
+
+.row {
+  padding: 14px 0px 0px 0px;
+  text-align: left;
+}
+
+.copyrights-text {
+  font-size: 12px;
+}
